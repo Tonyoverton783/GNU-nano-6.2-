@@ -1,2 +1,9 @@
-# GNU-nano-6.2-
-HelloWorld.java 
+hello.java
+
+class hello
+{
+ public static void(string args[])
+ {
+  sysrem.out.println("Hello World");
+ }
+}
